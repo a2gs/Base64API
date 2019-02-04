@@ -1,3 +1,19 @@
+/* Andre Augusto Giannotti Scota (a2gs)                              
+ * andre.scota@gmail.com
+ *
+ * Base64 API usage
+ *
+ * Public Domain
+ *
+ */
+
+/*
+ *  Who     | When       | What
+ *  --------+------------+----------------------------
+ *   a2gs   | 01/01/2007 | Creation
+ *          |            |
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
