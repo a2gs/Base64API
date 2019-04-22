@@ -3,7 +3,7 @@
  *
  * Base64 API usage
  *
- * Public Domain
+ * MIT License
  *
  */
 
